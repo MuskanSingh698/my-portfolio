@@ -6,13 +6,12 @@ This project showcases my skills, services, projects, and contact details in a p
 ✅ Fully responsive design (Mobile / Tablet / Desktop)
 ✅ Bootstrap 5 layout with modern UI cards & grid
 ✅ Smooth navigation with responsive navbar
-✅ About section with tabbed content (Skills / Experience / Education)
+✅ About section with tabbed content (Skills / Education)
 ✅ Projects showcase section
 ✅ Contact form UI
 ✅ Download Resume button
 ✅ Chatbot UI widget for interactive experience
-✅ Dark Mode toggle (Theme saved using localStorage)
-✅ Global hot-pink button theme (#ff69b4)
+
 🛠️ Tech Stack
 HTML5
 CSS3
